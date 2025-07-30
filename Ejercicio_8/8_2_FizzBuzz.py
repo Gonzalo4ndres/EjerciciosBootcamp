@@ -4,12 +4,12 @@
 
 limite = int(input('Hasta que numero quieres jugar FizzBuzz :'))
 
-numero = range(1,limite + 1)#agrega uno para que corte 
+numero = range(1,limite + 115)#agrega uno para que corte 
 
 for numero in numero:
     
      if numero % 3 == 0 and numero % 5 == 0:
-       print("FizzBuzz")
+       print("Fizzbuzz")
      elif numero % 3 == 0:
        print("Fizz")
     

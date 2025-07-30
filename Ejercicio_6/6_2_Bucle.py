@@ -2,7 +2,7 @@
 #se ultiliza cuando se conocen los datos o iteraciones.
 Frutas = ['Pera' , 'Platano' , "Naranja"]
 
-Frutas.append("Kiwi")
+#Frutas.append("Kiwi")
 
-for nombre in Frutas:
-    print(nombre)
+for fruta in Frutas:
+    print(fruta)

@@ -23,4 +23,4 @@ resultado = sumar_pares(numeros)
 print(f"La suma de los pares es: {resultado}")
 
 
-#Arreglo de sintaxis y defenicion de variagble
+#Arreglo de sintaxis y defenicion de variable
